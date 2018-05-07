@@ -1,0 +1,44 @@
+3
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwaldORm
+FtsimrLqsrc
+byoArBeDeyv
+Klcbqwikomk
+strEBGadhrb
+yuiqlxcnBjf
+4
+Waldorf
+Bambi
+Betty
+Dagbert
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwaldORm
+FtsimrLqsrc
+byoArBeDeyv
+Klcbqwikomk
+strEBGadhrb
+yuiqlxcnBjf
+4
+Waldorf
+Bambi
+Betty
+Dagbert
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwaldORm
+FtsimrLqsrc
+byoArBeDeyv
+Klcbqwikomk
+strEBGadhrb
+yuiqlxcnBjf
+2
+Waldorf
+Dagbert

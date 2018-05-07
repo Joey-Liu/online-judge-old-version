@@ -1,0 +1,21 @@
+VonNeumann
+VonNeumann hires Tanenbaum
+VonNeumann hires Dijkstra
+Tanenbaum hires Stallings
+Tanenbaum hires Silberschatz
+Stallings hires Knuth
+Stallings hires Hamming
+Stallings hires Huffman
+print
+VonNeumann hires Shannon
+fire Tanenbaum
+print
+fire Silberschatz
+print
+fire VonNeumann
+print
+fire Stallings
+print
+Dijkstra hires Lamport
+Dijkstra hires Lamport-two'
+print

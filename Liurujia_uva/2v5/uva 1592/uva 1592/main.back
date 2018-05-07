@@ -1,0 +1,105 @@
+#define _LOCAL
+#include <iostream>
+#include <sstream>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string>
+#include <string.h>
+#include <vector>
+#include <map>
+
+using namespace std;
+
+typedef pair<int, int> Pair;
+const int maxn = 10000 + 5;
+
+int database[maxn][10 + 3];
+int n, m;
+vector<string> str_arr;
+map<string, int> str2id;
+map<Pair, int> two_tuple;
+int rec1, rec2, rer1, rer2;
+bool flag = false;
+
+int find_strId(string s)
+{
+	if (str2id.count(s))
+		return str2id[s];
+
+	str_arr.push_back(s);
+	int id = str_arr.size() - 1;
+	str2id[s] = id;
+	return id;
+}
+
+void work()
+{
+	for (int c1 = 0; c1 < m; c1++)
+	{
+		
+		for (int c2 = c1 + 1; c2 < m; c2++)
+		{
+			two_tuple.clear();
+			for (int r = 0; r < n; r++)
+			{
+				Pair pa;
+				pa.first = database[r][c1]; pa.second = database[r][c2];
+				if (!two_tuple.count(pa))
+					two_tuple[pa] = r;
+				else
+				{
+					rec1 = c1; rec2 = c2;
+					rer1 = two_tuple[pa]; rer2 = r;
+					flag = true;
+					return;
+				}
+			}//for int r
+		}//for int c2
+	}//for int c1
+}
+
+int main()
+{
+#ifdef _LOCAL
+	freopen("in.txt", "r", stdin);
+	freopen("out.txt", "w", stdout);
+#endif
+	while (cin >> n >> m)
+	{
+		string str;
+		flag = false;
+		str_arr.resize(0);
+		str2id.clear();
+		two_tuple.clear();
+		getchar();
+
+		for (int i = 0; i < n; i++)
+		{	
+			getline(cin, str);
+			int sta = 0, pos;
+			for (int j = 0; j < m; j++)
+			{
+				 pos = str.find(',', sta);
+				 if (pos == string::npos)
+					 pos = str.length();
+
+				 string tmp_str = str.substr(sta, pos - sta);
+				 int id = find_strId(tmp_str);
+				 database[i][j] = id;
+				 sta = pos + 1;
+			}//for int j
+		}//for int i
+
+		work();
+		if (flag)
+		{
+			cout << "NO\n";
+			cout << rer1 + 1 << " " << rer2  + 1<< "\n";
+			cout << rec1 + 1 << " " << rec2  + 1<< "\n";
+		}
+		else
+			cout << "YES\n";
+
+	}//while
+	return 0;
+}

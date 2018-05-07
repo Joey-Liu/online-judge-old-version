@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_poj1089shui", "5_poj1089shui\5_poj1089shui.vcxproj", "{E114384A-F965-434C-A598-3F0AF70FB178}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E114384A-F965-434C-A598-3F0AF70FB178}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E114384A-F965-434C-A598-3F0AF70FB178}.Debug|Win32.Build.0 = Debug|Win32
+		{E114384A-F965-434C-A598-3F0AF70FB178}.Release|Win32.ActiveCfg = Release|Win32
+		{E114384A-F965-434C-A598-3F0AF70FB178}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

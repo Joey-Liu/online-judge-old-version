@@ -1,0 +1,22 @@
+NOTAPALINDROME -- is not a palindrome.
+
+ISAPALINILAPASI -- is a regular palindrome.
+
+2A3MEAS -- is a mirrored string.
+
+ATOYOTA -- is a mirrored palindrome.
+
+1 -- is a mirrored palindrome.
+
+2S -- is a mirrored string.
+
+11111 -- is a mirrored palindrome.
+
+22SS -- is a mirrored string.
+
+3AIAE -- is a mirrored string.
+
+11 -- is a mirrored palindrome.
+
+1111 -- is a mirrored palindrome.
+

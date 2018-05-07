@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_spoj决斗", "6_spoj决斗\6_spoj决斗.vcxproj", "{94370A73-8EC1-4DC2-9658-A97EBD3D9798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94370A73-8EC1-4DC2-9658-A97EBD3D9798}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94370A73-8EC1-4DC2-9658-A97EBD3D9798}.Debug|Win32.Build.0 = Debug|Win32
+		{94370A73-8EC1-4DC2-9658-A97EBD3D9798}.Release|Win32.ActiveCfg = Release|Win32
+		{94370A73-8EC1-4DC2-9658-A97EBD3D9798}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

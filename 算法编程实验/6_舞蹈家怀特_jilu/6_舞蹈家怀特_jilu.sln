@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_舞蹈家怀特_jilu", "6_舞蹈家怀特_jilu\6_舞蹈家怀特_jilu.vcxproj", "{9AB40C85-19D6-4CE9-BE44-1D8B6098F014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AB40C85-19D6-4CE9-BE44-1D8B6098F014}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9AB40C85-19D6-4CE9-BE44-1D8B6098F014}.Debug|Win32.Build.0 = Debug|Win32
+		{9AB40C85-19D6-4CE9-BE44-1D8B6098F014}.Release|Win32.ActiveCfg = Release|Win32
+		{9AB40C85-19D6-4CE9-BE44-1D8B6098F014}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

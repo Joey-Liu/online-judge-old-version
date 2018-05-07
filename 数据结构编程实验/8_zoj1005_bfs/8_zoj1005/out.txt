@@ -1,0 +1,14 @@
+6
+fill B
+pour B A
+drop A
+pour B A
+fill B
+pour B A
+success
+4
+fill A
+pour A B
+fill A
+pour A B
+success

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1470669442 source:d:\program files\tools\visual c++\microsoft visual studio\uva\liurujia_uva\v1misc\uva 10025\main.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+
+1470671830 source:d:\program files\tools\visual c++\microsoft visual studio\uva\liurujia_uva\v1misc\uva 10025\m2.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+

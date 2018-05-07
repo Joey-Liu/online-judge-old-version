@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_1_4最长递增序列_2分查找", "6_1_4最长递增序列_2分查找\6_1_4最长递增序列_2分查找.vcxproj", "{81D31034-325F-4A1E-AE88-D4F2E6DD5F0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81D31034-325F-4A1E-AE88-D4F2E6DD5F0C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81D31034-325F-4A1E-AE88-D4F2E6DD5F0C}.Debug|Win32.Build.0 = Debug|Win32
+		{81D31034-325F-4A1E-AE88-D4F2E6DD5F0C}.Release|Win32.ActiveCfg = Release|Win32
+		{81D31034-325F-4A1E-AE88-D4F2E6DD5F0C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

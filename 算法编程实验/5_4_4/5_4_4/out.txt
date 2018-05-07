@@ -1,0 +1,66 @@
+Set #1
+The minimum number of moves is5
+
+Set #2
+The minimum number of moves is1
+
+Set #3
+The minimum number of moves is3
+
+Set #4
+The minimum number of moves is0
+
+Set #5
+The minimum number of moves is0
+
+Set #6
+The minimum number of moves is0
+
+Set #7
+The minimum number of moves is0
+
+Set #8
+The minimum number of moves is105
+
+Set #9
+The minimum number of moves is252
+
+Set #10
+The minimum number of moves is267
+
+Set #11
+The minimum number of moves is359
+
+Set #12
+The minimum number of moves is432
+
+Set #13
+The minimum number of moves is473
+
+Set #14
+The minimum number of moves is706
+
+Set #15
+The minimum number of moves is0
+
+Set #16
+The minimum number of moves is65
+
+Set #17
+The minimum number of moves is65
+
+Set #18
+The minimum number of moves is1225
+
+Set #19
+The minimum number of moves is1225
+
+Set #20
+The minimum number of moves is1225
+
+Set #21
+The minimum number of moves is625
+
+Set #22
+The minimum number of moves is325
+

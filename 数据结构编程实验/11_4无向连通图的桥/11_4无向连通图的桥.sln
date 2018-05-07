@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11_4无向连通图的桥", "11_4无向连通图的桥\11_4无向连通图的桥.vcxproj", "{F0F0DAA2-DAD0-4824-A021-A7C0C227CEA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F0DAA2-DAD0-4824-A021-A7C0C227CEA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F0F0DAA2-DAD0-4824-A021-A7C0C227CEA3}.Debug|Win32.Build.0 = Debug|Win32
+		{F0F0DAA2-DAD0-4824-A021-A7C0C227CEA3}.Release|Win32.ActiveCfg = Release|Win32
+		{F0F0DAA2-DAD0-4824-A021-A7C0C227CEA3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_模取幂", "3_模取幂\3_模取幂.vcxproj", "{6C320DD9-4196-4D2A-B46B-126154DCE8C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C320DD9-4196-4D2A-B46B-126154DCE8C1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C320DD9-4196-4D2A-B46B-126154DCE8C1}.Debug|Win32.Build.0 = Debug|Win32
+		{6C320DD9-4196-4D2A-B46B-126154DCE8C1}.Release|Win32.ActiveCfg = Release|Win32
+		{6C320DD9-4196-4D2A-B46B-126154DCE8C1}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

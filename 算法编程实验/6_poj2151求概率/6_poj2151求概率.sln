@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_poj2151求概率", "6_poj2151求概率\6_poj2151求概率.vcxproj", "{1AD43447-9E3A-48C7-B381-459E9736C700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD43447-9E3A-48C7-B381-459E9736C700}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1AD43447-9E3A-48C7-B381-459E9736C700}.Debug|Win32.Build.0 = Debug|Win32
+		{1AD43447-9E3A-48C7-B381-459E9736C700}.Release|Win32.ActiveCfg = Release|Win32
+		{1AD43447-9E3A-48C7-B381-459E9736C700}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

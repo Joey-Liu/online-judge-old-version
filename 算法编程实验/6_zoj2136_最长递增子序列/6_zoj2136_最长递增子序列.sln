@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_zoj2136_最长递增子序列", "6_zoj2136_最长递增子序列\6_zoj2136_最长递增子序列.vcxproj", "{828C12D4-5F99-471E-BDEB-41F5BDABB388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828C12D4-5F99-471E-BDEB-41F5BDABB388}.Debug|Win32.ActiveCfg = Debug|Win32
+		{828C12D4-5F99-471E-BDEB-41F5BDABB388}.Debug|Win32.Build.0 = Debug|Win32
+		{828C12D4-5F99-471E-BDEB-41F5BDABB388}.Release|Win32.ActiveCfg = Release|Win32
+		{828C12D4-5F99-471E-BDEB-41F5BDABB388}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

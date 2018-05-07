@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1470661718 source:d:\program files\tools\visual c++\microsoft visual studio\uva\uva 253\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<memory.h>
+

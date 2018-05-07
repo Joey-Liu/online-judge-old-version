@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6_poj1390方块消除", "6_poj1390方块消除\6_poj1390方块消除.vcxproj", "{B823B73D-EA10-491D-AB9A-69D6EF3D9762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B823B73D-EA10-491D-AB9A-69D6EF3D9762}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B823B73D-EA10-491D-AB9A-69D6EF3D9762}.Debug|Win32.Build.0 = Debug|Win32
+		{B823B73D-EA10-491D-AB9A-69D6EF3D9762}.Release|Win32.ActiveCfg = Release|Win32
+		{B823B73D-EA10-491D-AB9A-69D6EF3D9762}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

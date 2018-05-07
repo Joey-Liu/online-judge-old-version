@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1477729292 source:d:\program files\tools\visual c++\microsoft visual studio\uva\liurujia_uva\v2graph\uva 705 cb\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<string.h>
+	<memory>
+

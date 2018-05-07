@@ -1,0 +1,6 @@
+Case #1:
+Tree
+Phone
+Case #2:
+Empty
+Phone

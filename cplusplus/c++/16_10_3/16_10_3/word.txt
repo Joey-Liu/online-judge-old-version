@@ -1,0 +1,4 @@
+help
+dump
+destroy
+crap

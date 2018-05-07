@@ -1,0 +1,21 @@
+Aa
+print
+Aa hires Bb
+Bb hires Cc
+Cc hires Dd
+Dd hires Ee
+Ee hires Ff
+Ff hires Gg
+print
+fire Aa
+print
+fire Bb
+print
+fire Cc
+print
+fire Dd
+print
+fire Ee
+print
+fire Ff
+print

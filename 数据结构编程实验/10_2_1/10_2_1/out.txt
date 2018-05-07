@@ -1,0 +1,4 @@
+EMPTY QUEUE!
+msg2 10
+msg1 10
+EMPTY QUEUE!

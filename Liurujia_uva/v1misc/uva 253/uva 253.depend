@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1470656502 source:d:\program files\tools\visual c++\microsoft visual studio\uva\算法入门经典uva\v1misc\uva 253\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<memory.h>
+
+1470656502 source:d:\program files\tools\visual c++\microsoft visual studio\uva\liurujia_uva\v1misc\uva 253\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<memory.h>
+

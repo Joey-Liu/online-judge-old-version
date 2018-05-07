@@ -1,0 +1,2 @@
+this one has a bug
+Pattern occurs with shift 6
