@@ -7,5 +7,5 @@ Something about the category:<br>
 入门经典 & Liurujia_uva(highly recommended): https://book.douban.com/subject/4138920/ https://book.douban.com/subject/25902102/ <br>
 <br>
 
-This repository probably won't be update any more. <br>
+This repository probably won't be updated any more. <br>
 I submit my code on https://github.com/Joey-Liu/online-judge :)
